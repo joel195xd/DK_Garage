@@ -36,9 +36,9 @@ This script implements a parking system for FiveM servers, allowing players to p
    fx_version 'cerulean'
    game 'gta5'
 
-   author 'TuNombre / YourName'
-   description 'Sistema de estacionamiento para FiveM / Parking system for FiveM'
-   version '1.0.0'
+   author 'Dark'
+   description 'Sistema de estacionamiento para FiveM'
+   version '1.0'
 
    client_script 'client.lua'
    server_script 'server.lua'
